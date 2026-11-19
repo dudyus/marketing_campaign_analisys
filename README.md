@@ -8,13 +8,13 @@ O trabalho envolve preparação e tratamento de dados, criação de indicadores 
 
 ### Desempenho por canal
 
-![Channel Performance](images/dashboard_channels.png)
+![Channel Performance](imagens/dashboard_canais.png)
 
 Comparação entre canais considerando conversões, impressões, cliques, investimentos e custos por resultado.
 
 ### Desempenho mensal
 
-![Monthly Performance](images/dashboard_monthly.png)
+![Monthly Performance](imagens/dashboard_monthly.png)
 
 Análise da evolução mensal das conversões e dos investimentos, identificando períodos de maior e menor desempenho.
 
@@ -30,12 +30,6 @@ Análise da evolução mensal das conversões e dos investimentos, identificando
 - Power BI
 - Power Query
 - DAX
-
-## Arquivos do projeto
-
-- [Dashboard Power BI](dashboard/marketing_campaign_analysis.pbix)
-- [Documentação completa](documentation/project_documentation.pdf)
-- [Dataset original](data/marketing_campaign_data.csv)
 
 ## Fonte dos dados
 
