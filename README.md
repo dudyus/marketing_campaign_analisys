@@ -8,13 +8,13 @@ O trabalho envolve preparação e tratamento de dados, criação de indicadores 
 
 ### Desempenho por canal
 
-![Channel Performance](imagens/dashboard_canais.png)
+![Channel Performance](imagens/dashboard_canais.jpg)
 
 Comparação entre canais considerando conversões, impressões, cliques, investimentos e custos por resultado.
 
 ### Desempenho mensal
 
-![Monthly Performance](imagens/dashboard_monthly.png)
+![Monthly Performance](imagens/dashboard_monthly.jpg)
 
 Análise da evolução mensal das conversões e dos investimentos, identificando períodos de maior e menor desempenho.
 
